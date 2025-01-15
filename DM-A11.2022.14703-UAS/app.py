@@ -1,5 +1,4 @@
 import streamlit as st
-import tensorflow as tf
 import joblib
 from tensorflow.keras.utils import load_img, img_to_array
 import numpy as np
